@@ -1,0 +1,102 @@
+input{
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  select {
+    padding: 10px;
+    border-radius: 5px;
+    border:solid rgb(8, 187, 196) 2px;
+  }
+  
+  #upload {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(106, 158, 9);
+  }
+  
+  #headerSection {
+    padding: 2px;
+    font-family: Cursive;
+  }
+  
+  #loginSection {
+    padding: 5px;
+    border-radius:52px;
+    box-sizing: 40px;
+    background-color: rgb(212, 131, 10);
+    width:35%;
+    height:350px;
+  }
+  #bodySection{
+    padding: 5px;
+    border-radius:52px;
+    box-sizing: 40px;
+    background-color: pink;
+    width:35%;
+    height:350px;
+  }
+  body {
+    background-image:url("https://thumbs.dreamstime.com/b/online-vote-tiny-people-character-concept-vector-illustration-suitable-wallpaper-background-card-banner-book-web-landing-167749048.jpg");
+  }
+  
+  #loginbtn {
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  #reglink {
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  #mainSection {
+    padding: 10px;
+  }
+  
+  #profileSection {
+    width: 30%;
+    float: left;
+    background-color: white;
+    padding: 20px;
+  }
+  
+  #groupSection {
+    width: 60%;
+    float: right;
+    background-color: white;
+    padding: 20px;
+  }
+  
+  #back-button {
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  #logout-button {
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+  }
